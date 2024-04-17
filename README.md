@@ -4,4 +4,5 @@ Instructor: Karan
 Students:
 
 1. XYZ
-2. My name is "Student2"
+2. Nayan
+3. My name is "Student3"
